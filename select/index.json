@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "チョコレイト",
+  "base_artist": "sumika",
+  "createdAt": "2026-01-05T18:30:58.061425Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ - 2012-Mix",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/01_チョコレイト・ディスコ_-_2012-Mix_Perfume.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "チョコレイト・オンナノコ",
+      "artist": "Utsu-P",
+      "has_synced": true,
+      "path": "select/02_チョコレイト・オンナノコ_Utsu-P.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/03_チョコレイト・ディスコ_(2012-Mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chocolate Disco [チョコレイト・ディスコ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/04_Chocolate_Disco_[チョコレイト・ディスコ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chocolate Disco [チョコレイト・ディスコ]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/05_Chocolate_Disco_[チョコレイト・ディスコ]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "チョコレイト・オンナノコ",
+      "artist": "鬱P",
+      "has_synced": false,
+      "path": "select/06_チョコレイト・オンナノコ_鬱P.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "チョコレイト・オンナノコ",
+      "artist": "鬱P; GUMI",
+      "has_synced": true,
+      "path": "select/07_チョコレイト・オンナノコ_鬱P;_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/08_チョコレイト・ディスコ_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "チョコレイト・オンナノコ",
+      "artist": "Utsu-P",
+      "has_synced": true,
+      "path": "select/09_チョコレイト・オンナノコ_Utsu-P.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "チョコレイト・オンナノコ",
+      "artist": "Utsu-P feat. GUMI",
+      "has_synced": true,
+      "path": "select/10_チョコレイト・オンナノコ_Utsu-P_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "チョコレイト",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/11_チョコレイト_sumika.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/12_チョコレイト・ディスコ_(2012-Mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ギブミー･チョコレイト",
+      "artist": "カラスは真っ白",
+      "has_synced": true,
+      "path": "select/13_ギブミー・チョコレイト_カラスは真っ白.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (2013 トヨタ AQUA CMバージョン)",
+      "artist": "まらしぃ",
+      "has_synced": true,
+      "path": "select/14_チョコレイト・ディスコ_(2013_トヨタ_AQUA_CMバージョン)_まらしぃ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "チョコレイト․ティスコ (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/15_チョコレイト.ティスコ_(2012-Mix)_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "チョコレイト・オンナノコ (feat. メグッポイド)",
+      "artist": "鬱P",
+      "has_synced": false,
+      "path": "select/16_チョコレイト・オンナノコ_(feat._メグッポイド)_鬱P.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "チョコレイト・ディスコ (Chocolate Disco) (2012-Mix)",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/17_チョコレイト・ディスコ_(Chocolate_Disco)_(2012-Mix)_Perfume.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チョコレイト",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_チョコレイト_sumika.txt"
+    }
+  ]
+}
